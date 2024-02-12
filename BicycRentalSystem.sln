@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BicycRentalSystem", "BicycRentalSystem.csproj", "{E5B971CE-CDA7-49BD-9ADF-9C7E4C4DF63D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5B971CE-CDA7-49BD-9ADF-9C7E4C4DF63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B971CE-CDA7-49BD-9ADF-9C7E4C4DF63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B971CE-CDA7-49BD-9ADF-9C7E4C4DF63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B971CE-CDA7-49BD-9ADF-9C7E4C4DF63D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F5FBB4C-AEB7-4260-95FE-EC3F4D8A9AB9}
+	EndGlobalSection
+EndGlobal
